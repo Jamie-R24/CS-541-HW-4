@@ -1,0 +1,569 @@
+Hyperparameter Search Results:
+-----------------------------
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 10], batch size: 32
+Validation Accuracy: 0.8276
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 10], batch size: 64
+Validation Accuracy: 0.8312
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 10], batch size: 128
+Validation Accuracy: 0.8269
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 10], batch size: 256
+Validation Accuracy: 0.8263
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 10], batch size: 32
+Validation Accuracy: 0.8109
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 10], batch size: 64
+Validation Accuracy: 0.8221
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 10], batch size: 128
+Validation Accuracy: 0.8294
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 10], batch size: 256
+Validation Accuracy: 0.8257
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 10], batch size: 32
+Validation Accuracy: 0.8173
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 10], batch size: 64
+Validation Accuracy: 0.8263
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 10], batch size: 128
+Validation Accuracy: 0.8260
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 10], batch size: 256
+Validation Accuracy: 0.8277
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.8137
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.8255
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.8227
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.8263
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.8135
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.8311
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.8278
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.8267
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.8123
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.8221
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.8297
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.8258
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.8179
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.8289
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.8197
+
+Training with learning rate: 0.001, hidden layers: [784, 30, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.8222
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.8215
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.8217
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.8312
+
+Training with learning rate: 0.001, hidden layers: [784, 40, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.8266
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.8009
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.8373
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.8322
+
+Training with learning rate: 0.001, hidden layers: [784, 50, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.8215
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 10], batch size: 32
+Validation Accuracy: 0.7501
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 10], batch size: 64
+Validation Accuracy: 0.8097
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 10], batch size: 128
+Validation Accuracy: 0.8070
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 10], batch size: 256
+Validation Accuracy: 0.8209
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 10], batch size: 32
+Validation Accuracy: 0.7891
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 10], batch size: 64
+Validation Accuracy: 0.8024
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 10], batch size: 128
+Validation Accuracy: 0.8180
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 10], batch size: 256
+Validation Accuracy: 0.8153
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 10], batch size: 32
+Validation Accuracy: 0.8089
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 10], batch size: 64
+Validation Accuracy: 0.8121
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 10], batch size: 128
+Validation Accuracy: 0.8075
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 10], batch size: 256
+Validation Accuracy: 0.8143
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.7492
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.8064
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.8013
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.8028
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.7929
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.7980
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.8214
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.8280
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.7917
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.8027
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.8157
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.8193
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.7788
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.8041
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.8083
+
+Training with learning rate: 0.005, hidden layers: [784, 30, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.8169
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.7883
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.8094
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.8039
+
+Training with learning rate: 0.005, hidden layers: [784, 40, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.8120
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.7925
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.7943
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.8055
+
+Training with learning rate: 0.005, hidden layers: [784, 50, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.8140
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 10], batch size: 32
+Validation Accuracy: 0.7890
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 10], batch size: 64
+Validation Accuracy: 0.8007
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 10], batch size: 128
+Validation Accuracy: 0.8022
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 10], batch size: 256
+Validation Accuracy: 0.8036
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 10], batch size: 32
+Validation Accuracy: 0.7342
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 10], batch size: 64
+Validation Accuracy: 0.7972
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 10], batch size: 128
+Validation Accuracy: 0.8106
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 10], batch size: 256
+Validation Accuracy: 0.8087
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 10], batch size: 32
+Validation Accuracy: 0.7757
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 10], batch size: 64
+Validation Accuracy: 0.7792
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 10], batch size: 128
+Validation Accuracy: 0.8001
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 10], batch size: 256
+Validation Accuracy: 0.8007
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.7683
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.7844
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.8083
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.7721
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.7716
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.7878
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.7835
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.8162
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.7542
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.7652
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.8081
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.8062
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.7766
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.7880
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.7754
+
+Training with learning rate: 0.01, hidden layers: [784, 30, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.7998
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.7301
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.7834
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.7879
+
+Training with learning rate: 0.01, hidden layers: [784, 40, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.7610
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.7622
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.7970
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.8005
+
+Training with learning rate: 0.01, hidden layers: [784, 50, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.7811
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 10], batch size: 32
+Validation Accuracy: 0.5192
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 10], batch size: 64
+Validation Accuracy: 0.6941
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 10], batch size: 128
+Validation Accuracy: 0.7284
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 10], batch size: 256
+Validation Accuracy: 0.6848
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 10], batch size: 32
+Validation Accuracy: 0.5908
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 10], batch size: 64
+Validation Accuracy: 0.7108
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 10], batch size: 128
+Validation Accuracy: 0.7017
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 10], batch size: 256
+Validation Accuracy: 0.7686
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 10], batch size: 32
+Validation Accuracy: 0.6225
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 10], batch size: 64
+Validation Accuracy: 0.6608
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 10], batch size: 128
+Validation Accuracy: 0.6655
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 10], batch size: 256
+Validation Accuracy: 0.7111
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.3137
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.6236
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.7372
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.7639
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.2983
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.2890
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.7073
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.2755
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.0998
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.6894
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.6605
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.7416
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.4293
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.6215
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.6627
+
+Training with learning rate: 0.05, hidden layers: [784, 30, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.6703
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.3317
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.6713
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.6873
+
+Training with learning rate: 0.05, hidden layers: [784, 40, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.4098
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.1004
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.1254
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.5383
+
+Training with learning rate: 0.05, hidden layers: [784, 50, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.6917
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 10], batch size: 32
+Validation Accuracy: 0.2791
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 10], batch size: 64
+Validation Accuracy: 0.4749
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 10], batch size: 128
+Validation Accuracy: 0.5679
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 10], batch size: 256
+Validation Accuracy: 0.5232
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 10], batch size: 32
+Validation Accuracy: 0.4988
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 10], batch size: 64
+Validation Accuracy: 0.4243
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 10], batch size: 128
+Validation Accuracy: 0.6538
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 10], batch size: 256
+Validation Accuracy: 0.6454
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 10], batch size: 32
+Validation Accuracy: 0.4566
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 10], batch size: 64
+Validation Accuracy: 0.5467
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 10], batch size: 128
+Validation Accuracy: 0.4878
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 10], batch size: 256
+Validation Accuracy: 0.5640
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.0987
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.1010
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.1009
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.1708
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.1003
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.1005
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.0997
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.1329
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.1736
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.1036
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.0968
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.0969
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 30, 10], batch size: 32
+Validation Accuracy: 0.0966
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 30, 10], batch size: 64
+Validation Accuracy: 0.1002
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 30, 10], batch size: 128
+Validation Accuracy: 0.1004
+
+Training with learning rate: 0.1, hidden layers: [784, 30, 30, 30, 10], batch size: 256
+Validation Accuracy: 0.1002
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 40, 10], batch size: 32
+Validation Accuracy: 0.1009
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 40, 10], batch size: 64
+Validation Accuracy: 0.1507
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 40, 10], batch size: 128
+Validation Accuracy: 0.1002
+
+Training with learning rate: 0.1, hidden layers: [784, 40, 40, 40, 10], batch size: 256
+Validation Accuracy: 0.1815
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 50, 10], batch size: 32
+Validation Accuracy: 0.1015
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 50, 10], batch size: 64
+Validation Accuracy: 0.0998
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 50, 10], batch size: 128
+Validation Accuracy: 0.1003
+
+Training with learning rate: 0.1, hidden layers: [784, 50, 50, 50, 10], batch size: 256
+Validation Accuracy: 0.2968
+
+Best hyperparameters: Learning rate: 0.001, Hidden layers: [784, 50, 50, 50, 10], Batch size: 64
+
+Training with Best Hyperparameters:
+-----------------------------
+Epoch 10: Training loss = 0.5164
+Epoch 11: Training loss = 0.5356
+Epoch 12: Training loss = 0.4245
+Epoch 13: Training loss = 0.3365
+Epoch 14: Training loss = 0.5025
+Epoch 15: Training loss = 0.2857
+Epoch 16: Training loss = 0.3960
+Epoch 17: Training loss = 0.5372
+Epoch 18: Training loss = 0.5711
+Epoch 19: Training loss = 0.5349
+Epoch 20: Training loss = 0.6088
+Epoch 21: Training loss = 0.5056
+Epoch 22: Training loss = 0.5054
+Epoch 23: Training loss = 0.4997
+Epoch 24: Training loss = 0.7567
+Epoch 25: Training loss = 0.4728
+Epoch 26: Training loss = 0.4511
+Epoch 27: Training loss = 0.5169
+Epoch 28: Training loss = 0.6580
+Epoch 29: Training loss = 0.3867
+
+Test Accuracy: 0.8289

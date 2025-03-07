@@ -5,178 +5,178 @@ Hyperparameter Search Results:
 -----------------------------
 
 Trying lr=0.0001, alpha=1e-05, batch_size=32
-Validation accuracy: 0.1455
+Validation accuracy: 0.0702
 
 Trying lr=0.0001, alpha=1e-05, batch_size=64
-Validation accuracy: 0.1807
+Validation accuracy: 0.1746
 
 Trying lr=0.0001, alpha=1e-05, batch_size=128
-Validation accuracy: 0.0778
+Validation accuracy: 0.0954
 
 Trying lr=0.0001, alpha=1e-05, batch_size=256
-Validation accuracy: 0.1262
+Validation accuracy: 0.0882
 
 Trying lr=0.0001, alpha=0.0001, batch_size=32
-Validation accuracy: 0.1047
+Validation accuracy: 0.1152
 
 Trying lr=0.0001, alpha=0.0001, batch_size=64
-Validation accuracy: 0.1359
+Validation accuracy: 0.0499
 
 Trying lr=0.0001, alpha=0.0001, batch_size=128
-Validation accuracy: 0.1365
+Validation accuracy: 0.0813
 
 Trying lr=0.0001, alpha=0.0001, batch_size=256
-Validation accuracy: 0.1343
+Validation accuracy: 0.0953
 
 Trying lr=0.0001, alpha=0.001, batch_size=32
-Validation accuracy: 0.0893
+Validation accuracy: 0.1373
 
 Trying lr=0.0001, alpha=0.001, batch_size=64
-Validation accuracy: 0.1443
+Validation accuracy: 0.1289
 
 Trying lr=0.0001, alpha=0.001, batch_size=128
-Validation accuracy: 0.1192
+Validation accuracy: 0.0958
 
 Trying lr=0.0001, alpha=0.001, batch_size=256
-Validation accuracy: 0.1026
+Validation accuracy: 0.1442
 
 Trying lr=0.0001, alpha=0.01, batch_size=32
-Validation accuracy: 0.1599
+Validation accuracy: 0.1192
 
 Trying lr=0.0001, alpha=0.01, batch_size=64
-Validation accuracy: 0.1086
+Validation accuracy: 0.0944
 
 Trying lr=0.0001, alpha=0.01, batch_size=128
-Validation accuracy: 0.0619
+Validation accuracy: 0.1519
 
 Trying lr=0.0001, alpha=0.01, batch_size=256
-Validation accuracy: 0.0922
+Validation accuracy: 0.0872
 
 Trying lr=0.0001, alpha=0.1, batch_size=32
-Validation accuracy: 0.1613
+Validation accuracy: 0.1401
 
 Trying lr=0.0001, alpha=0.1, batch_size=64
-Validation accuracy: 0.1494
+Validation accuracy: 0.0813
 
 Trying lr=0.0001, alpha=0.1, batch_size=128
-Validation accuracy: 0.0733
+Validation accuracy: 0.1129
 
 Trying lr=0.0001, alpha=0.1, batch_size=256
-Validation accuracy: 0.1030
+Validation accuracy: 0.0923
 
 Trying lr=0.001, alpha=1e-05, batch_size=32
-Validation accuracy: 0.2254
+Validation accuracy: 0.1855
 
 Trying lr=0.001, alpha=1e-05, batch_size=64
-Validation accuracy: 0.1708
+Validation accuracy: 0.1587
 
 Trying lr=0.001, alpha=1e-05, batch_size=128
-Validation accuracy: 0.1212
+Validation accuracy: 0.1091
 
 Trying lr=0.001, alpha=1e-05, batch_size=256
-Validation accuracy: 0.1705
+Validation accuracy: 0.1123
 
 Trying lr=0.001, alpha=0.0001, batch_size=32
-Validation accuracy: 0.1207
+Validation accuracy: 0.1792
 
 Trying lr=0.001, alpha=0.0001, batch_size=64
-Validation accuracy: 0.1073
+Validation accuracy: 0.1117
 
 Trying lr=0.001, alpha=0.0001, batch_size=128
-Validation accuracy: 0.1018
+Validation accuracy: 0.1894
 
 Trying lr=0.001, alpha=0.0001, batch_size=256
-Validation accuracy: 0.0993
+Validation accuracy: 0.1011
 
 Trying lr=0.001, alpha=0.001, batch_size=32
-Validation accuracy: 0.1021
-
-Trying lr=0.001, alpha=0.001, batch_size=64
-Validation accuracy: 0.1310
-
-Trying lr=0.001, alpha=0.001, batch_size=128
-Validation accuracy: 0.1297
-
-Trying lr=0.001, alpha=0.001, batch_size=256
-Validation accuracy: 0.1270
-
-Trying lr=0.001, alpha=0.01, batch_size=32
-Validation accuracy: 0.1227
-
-Trying lr=0.001, alpha=0.01, batch_size=64
-Validation accuracy: 0.1179
-
-Trying lr=0.001, alpha=0.01, batch_size=128
-Validation accuracy: 0.1735
-
-Trying lr=0.001, alpha=0.01, batch_size=256
-Validation accuracy: 0.1435
-
-Trying lr=0.001, alpha=0.1, batch_size=32
-Validation accuracy: 0.1116
-
-Trying lr=0.001, alpha=0.1, batch_size=64
-Validation accuracy: 0.1437
-
-Trying lr=0.001, alpha=0.1, batch_size=128
-Validation accuracy: 0.1022
-
-Trying lr=0.001, alpha=0.1, batch_size=256
-Validation accuracy: 0.1694
-
-Trying lr=0.01, alpha=1e-05, batch_size=32
-Validation accuracy: 0.7919
-
-Trying lr=0.01, alpha=1e-05, batch_size=64
-Validation accuracy: 0.6603
-
-Trying lr=0.01, alpha=1e-05, batch_size=128
-Validation accuracy: 0.2386
-
-Trying lr=0.01, alpha=1e-05, batch_size=256
 Validation accuracy: 0.1061
 
+Trying lr=0.001, alpha=0.001, batch_size=64
+Validation accuracy: 0.1121
+
+Trying lr=0.001, alpha=0.001, batch_size=128
+Validation accuracy: 0.1278
+
+Trying lr=0.001, alpha=0.001, batch_size=256
+Validation accuracy: 0.1009
+
+Trying lr=0.001, alpha=0.01, batch_size=32
+Validation accuracy: 0.0970
+
+Trying lr=0.001, alpha=0.01, batch_size=64
+Validation accuracy: 0.1210
+
+Trying lr=0.001, alpha=0.01, batch_size=128
+Validation accuracy: 0.1268
+
+Trying lr=0.001, alpha=0.01, batch_size=256
+Validation accuracy: 0.2308
+
+Trying lr=0.001, alpha=0.1, batch_size=32
+Validation accuracy: 0.0966
+
+Trying lr=0.001, alpha=0.1, batch_size=64
+Validation accuracy: 0.0966
+
+Trying lr=0.001, alpha=0.1, batch_size=128
+Validation accuracy: 0.1111
+
+Trying lr=0.001, alpha=0.1, batch_size=256
+Validation accuracy: 0.1185
+
+Trying lr=0.01, alpha=1e-05, batch_size=32
+Validation accuracy: 0.7772
+
+Trying lr=0.01, alpha=1e-05, batch_size=64
+Validation accuracy: 0.6464
+
+Trying lr=0.01, alpha=1e-05, batch_size=128
+Validation accuracy: 0.1994
+
+Trying lr=0.01, alpha=1e-05, batch_size=256
+Validation accuracy: 0.1502
+
 Trying lr=0.01, alpha=0.0001, batch_size=32
-Validation accuracy: 0.7660
+Validation accuracy: 0.7814
 
 Trying lr=0.01, alpha=0.0001, batch_size=64
-Validation accuracy: 0.6633
+Validation accuracy: 0.6679
 
 Trying lr=0.01, alpha=0.0001, batch_size=128
-Validation accuracy: 0.2994
+Validation accuracy: 0.1738
 
 Trying lr=0.01, alpha=0.0001, batch_size=256
-Validation accuracy: 0.1032
+Validation accuracy: 0.1818
 
 Trying lr=0.01, alpha=0.001, batch_size=32
-Validation accuracy: 0.7730
+Validation accuracy: 0.7668
 
 Trying lr=0.01, alpha=0.001, batch_size=64
-Validation accuracy: 0.6652
+Validation accuracy: 0.6765
 
 Trying lr=0.01, alpha=0.001, batch_size=128
-Validation accuracy: 0.2126
+Validation accuracy: 0.2607
 
 Trying lr=0.01, alpha=0.001, batch_size=256
-Validation accuracy: 0.2080
+Validation accuracy: 0.1494
 
 Trying lr=0.01, alpha=0.01, batch_size=32
-Validation accuracy: 0.7425
+Validation accuracy: 0.7526
 
 Trying lr=0.01, alpha=0.01, batch_size=64
-Validation accuracy: 0.6719
+Validation accuracy: 0.6408
 
 Trying lr=0.01, alpha=0.01, batch_size=128
-Validation accuracy: 0.2295
+Validation accuracy: 0.3188
 
 Trying lr=0.01, alpha=0.01, batch_size=256
-Validation accuracy: 0.1378
+Validation accuracy: 0.1523
 
 Trying lr=0.01, alpha=0.1, batch_size=32
-Validation accuracy: 0.0987
+Validation accuracy: 0.1009
 
 Trying lr=0.01, alpha=0.1, batch_size=64
-Validation accuracy: 0.0987
+Validation accuracy: 0.0966
 
 Trying lr=0.01, alpha=0.1, batch_size=128
 Validation accuracy: 0.0966
@@ -185,74 +185,74 @@ Trying lr=0.01, alpha=0.1, batch_size=256
 Validation accuracy: 0.0966
 
 Trying lr=0.1, alpha=1e-05, batch_size=32
-Validation accuracy: 0.8751
+Validation accuracy: 0.8648
 
 Trying lr=0.1, alpha=1e-05, batch_size=64
-Validation accuracy: 0.8595
+Validation accuracy: 0.8596
 
 Trying lr=0.1, alpha=1e-05, batch_size=128
-Validation accuracy: 0.8273
+Validation accuracy: 0.8276
 
 Trying lr=0.1, alpha=1e-05, batch_size=256
-Validation accuracy: 0.7960
+Validation accuracy: 0.7753
 
 Trying lr=0.1, alpha=0.0001, batch_size=32
-Validation accuracy: 0.8733
+Validation accuracy: 0.8681
 
 Trying lr=0.1, alpha=0.0001, batch_size=64
-Validation accuracy: 0.8583
+Validation accuracy: 0.8597
 
 Trying lr=0.1, alpha=0.0001, batch_size=128
-Validation accuracy: 0.8393
+Validation accuracy: 0.8443
 
 Trying lr=0.1, alpha=0.0001, batch_size=256
-Validation accuracy: 0.7802
+Validation accuracy: 0.7900
 
 Trying lr=0.1, alpha=0.001, batch_size=32
-Validation accuracy: 0.8694
+Validation accuracy: 0.8583
 
 Trying lr=0.1, alpha=0.001, batch_size=64
-Validation accuracy: 0.8508
+Validation accuracy: 0.8570
 
 Trying lr=0.1, alpha=0.001, batch_size=128
-Validation accuracy: 0.8330
+Validation accuracy: 0.8403
 
 Trying lr=0.1, alpha=0.001, batch_size=256
-Validation accuracy: 0.7953
+Validation accuracy: 0.7912
 
 Trying lr=0.1, alpha=0.01, batch_size=32
-Validation accuracy: 0.8234
+Validation accuracy: 0.8176
 
 Trying lr=0.1, alpha=0.01, batch_size=64
-Validation accuracy: 0.8207
+Validation accuracy: 0.8173
 
 Trying lr=0.1, alpha=0.01, batch_size=128
-Validation accuracy: 0.7982
+Validation accuracy: 0.7973
 
 Trying lr=0.1, alpha=0.01, batch_size=256
-Validation accuracy: 0.7612
+Validation accuracy: 0.7444
 
 Trying lr=0.1, alpha=0.1, batch_size=32
-Validation accuracy: 0.1003
+Validation accuracy: 0.1015
 
 Trying lr=0.1, alpha=0.1, batch_size=64
-Validation accuracy: 0.1016
+Validation accuracy: 0.1015
 
 Trying lr=0.1, alpha=0.1, batch_size=128
 Validation accuracy: 0.1015
 
 Trying lr=0.1, alpha=0.1, batch_size=256
-Validation accuracy: 0.0998
+Validation accuracy: 0.1002
 
 
 Best hyperparameters found:
 learning_rate: 0.1
-alpha: 1e-05
+alpha: 0.0001
 batch_size: 32
 
 Final Test Set Performance:
 -------------------------
-Cross-entropy loss: 0.3623
-Classification accuracy: 0.8811
+Cross-entropy loss: 0.3925
+Classification accuracy: 0.8785
 
 Results have been saved to results.txt
